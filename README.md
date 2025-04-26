@@ -3,3 +3,5 @@
 bhai mai to trip par ja rha hu
 <br>
 apka kya plan hai
+<br>
+mera abhi koi plan nhi hai
